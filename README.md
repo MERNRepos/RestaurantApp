@@ -2,7 +2,7 @@
 
 This repository that demonstrates the core functionality of the application. The demo provides a walkthrough of the user interface and highlights key features in action.
 
-![Demo Preview](demo.gif)
+![Demo Preview](../RestaurantApp//client//public/RestaurantApp.gif)
 
 ---
 
@@ -15,6 +15,12 @@ This repository that demonstrates the core functionality of the application. The
 - 📱 Mobile-first, responsive design
 
 ---
+
+🧱 Tech Stack
+Frontend: React, JavaScript, TypeScript
+Backend: Node.js, Express
+Database: MongoDB
+Deployment: GitHub Pages
 
 ## ⚙️ Getting Started
 
