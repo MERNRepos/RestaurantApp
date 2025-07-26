@@ -16,11 +16,11 @@ This repository that demonstrates the core functionality of the application. The
 
 ---
 
-🧱 Tech Stack
-Frontend: React, JavaScript, TypeScript
-Backend: Node.js, Express
-Database: MongoDB
-Deployment: GitHub Pages
+## 🧱 Tech Stack
+- Frontend: React, JavaScript, TypeScript
+- Backend: Node.js, Express
+- Database: MongoDB
+- Deployment: GitHub Pages
 
 ## ⚙️ Getting Started
 
