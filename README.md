@@ -2,7 +2,7 @@
 
 This repository that demonstrates the core functionality of the application. The demo provides a walkthrough of the user interface and highlights key features in action.
 
-![Demo Preview](../RestaurantApp//client//public/RestaurantApp.gif)
+![RestaurantApp Demo](./client/public/RestaurantApp.gif)
 
 ---
 
